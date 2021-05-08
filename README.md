@@ -9,7 +9,7 @@ Include:
 3. Datasheet for MCP2515
 4. Datasheet for MCP2551
 
-Click on [Longan-Labs.cc](Longan-Labs.cc) to get the product you need.
+Click on [Longan-Labs.cc](https://www.longan-labs.cc/) to get the product you need.
 
 Contact [support@longan-labs.cc](support@longan-labs.cc) if you need help.
 
